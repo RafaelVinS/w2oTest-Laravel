@@ -1,3 +1,13 @@
+Test W2o usando Laravel and Mysql.
+
+clonar https://github.com/RafaelVinS/w2oTest-Laravel.git ou baixar https://github.com/RafaelVinS/w2oTest-Laravel/archive/refs/heads/master.zip
+
+Após baixar não esquecer de usar composer install, php artisan migrate e php artisan serve.
+
+Link: http://localhost:8000/empresas
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
