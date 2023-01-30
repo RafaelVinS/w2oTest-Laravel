@@ -1,4 +1,4 @@
-Test W2o usando Laravel and Mysql.
+Test W2o usando Laravel e Mysql.
 
 clonar https://github.com/RafaelVinS/w2oTest-Laravel.git ou baixar https://github.com/RafaelVinS/w2oTest-Laravel/archive/refs/heads/master.zip
 
